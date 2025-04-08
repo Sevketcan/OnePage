@@ -9,6 +9,10 @@ const nextConfig = {
       },
     ],
   },
+  // Config file locations
+  postcss: true,
+  tailwind: true,
+  typescript: true,
 }
 
 module.exports = nextConfig 
